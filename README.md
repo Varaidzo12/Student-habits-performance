@@ -2,7 +2,7 @@
   Student-habits-performance analysis
 
 ## 📌 Project Summary
-    This project investigates how various student lifestyle habits—such as study time, sleep patterns and internet usage affect academic performance. The dataset, obtained from Kaggle, includes responses from 300+ students across             multiple behavioral and academic indicators. Key variables include daily study hours, sleep duration, internet use frequency, and final exam scores. Using Python and Google Colab, I conducted exploratory data analysis (EDA), cleaned      and visualized the dataset, and identified correlations between lifestyle factors and student performance.
+This project investigates how various student lifestyle habits—such as study time, sleep patterns and internet usage affect academic performance. The dataset, obtained from Kaggle,     includes responses from 300+ students across multiple behavioral and academic indicators. Key variables include daily study hours, sleep duration, internet use frequency, and final exam scores. Using Python and Google Colab, I conducted exploratory data analysis (EDA), cleaned and visualized the dataset, and identified correlations between lifestyle factors and student performance.
 
     Key findings showed that study-hours are the strongest predictor of exam performance followed by mental health-rating. Time spent on social media and Sleeping had a medium impact on students’ 
     performance and surprisingly, Parental education level had a mild impact, suggesting some background influence, though not as strong as daily habits. 
@@ -15,7 +15,7 @@
     - Compare model performance and derive actionable insights. 
 
 ## 📊 Dataset Description
-     - **Source**: [Student Habits vs Academic Performance Dataset on Kaggle](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance)
+     - **Source**: [Student Habits vs Academic Performance Dataset on Kaggle] https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
     - **Features:** Numeric and categorical variables
     - **Target Variable:** Accademic perfomance or Exam score
 
