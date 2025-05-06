@@ -16,8 +16,10 @@
     - Compare model performance and derive actionable insights. 
 
 ## 📊 Dataset Description
-    - **Source**: 
+    - ## Source
+    
     https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
+    
     - **Features:** Numeric and categorical variables
     - **Target Variable:** Accademic perfomance or Exam score
 
